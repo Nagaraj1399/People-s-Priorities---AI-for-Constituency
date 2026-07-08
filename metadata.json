@@ -1,0 +1,6 @@
+{
+  "name": "National Portal for Citizen Grievances & Project Prioritization",
+  "description": "An official-style Indian Central Government platform (CPGRAMS & MPLADS architecture) featuring citizen grievance submission with voice/photo analysis, NIC Kavach authentication for MPs, and AI-driven project prioritization scoring.",
+  "requestFramePermissions": ["camera", "microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
